@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-12-09 00:30:22 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2020-12-09 01:17:30 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2020-12-09 01:19:10 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2020-12-09 01:39:06 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2020-12-09 01:39:57 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2020-12-09 01:42:10 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2020-12-09 01:47:46 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2020-12-09 02:07:43 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2020-12-09 02:23:53 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2020-12-09 02:44:20 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2020-12-09 03:00:39 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2020-12-09 03:24:57 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2020-12-09 03:57:23 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2020-12-09 04:33:14 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2020-12-09 04:48:47 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2020-12-09 05:22:54 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2020-12-09 06:56:08 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2020-12-09 07:14:11 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2020-12-09 07:15:26 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2020-12-09 13:15:31 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2020-12-09 13:37:51 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2020-12-09 15:36:10 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2020-12-09 17:10:16 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2020-12-09 17:42:04 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2020-12-09 18:55:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2020-12-09 19:05:45 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2020-12-09 19:37:17 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2020-12-09 19:45:18 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2020-12-09 20:01:45 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2020-12-09 21:37:32 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2020-12-09 22:40:59 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2020-12-09 22:54:21 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2020-12-09 22:59:31 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2020-12-09 23:15:25 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2020-12-09 23:33:57 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469

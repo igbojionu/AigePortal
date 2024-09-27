@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-03-26 00:32:14 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/Quiz_model.php 878
+ERROR - 2022-03-26 02:24:12 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/Quiz_model.php 878
+ERROR - 2022-03-26 02:28:23 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/Quiz_model.php 878
+ERROR - 2022-03-26 05:57:15 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/Quiz_model.php 878
+ERROR - 2022-03-26 06:27:06 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2022-03-26 06:32:09 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/Quiz_model.php 878
+ERROR - 2022-03-26 06:45:55 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/Quiz_model.php 878
+ERROR - 2022-03-26 06:46:02 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/Quiz_model.php 878
+ERROR - 2022-03-26 06:46:05 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/Quiz_model.php 878
+ERROR - 2022-03-26 06:46:06 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/Quiz_model.php 878
+ERROR - 2022-03-26 06:46:07 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/Quiz_model.php 878
+ERROR - 2022-03-26 07:01:49 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2022-03-26 07:06:07 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2022-03-26 07:07:18 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2022-03-26 07:23:30 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2022-03-26 07:28:29 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/Quiz_model.php 878
+ERROR - 2022-03-26 07:35:13 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 621
+ERROR - 2022-03-26 08:13:33 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/Quiz_model.php 878
+ERROR - 2022-03-26 08:52:05 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/Quiz_model.php 878
+ERROR - 2022-03-26 08:52:33 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2022-03-26 10:14:17 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 469
+ERROR - 2022-03-26 10:21:18 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/User_model.php 421
+ERROR - 2022-03-26 10:27:03 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/Quiz_model.php 878
+ERROR - 2022-03-26 10:32:49 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/Quiz_model.php 878
+ERROR - 2022-03-26 10:38:07 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/Quiz_model.php 878
+ERROR - 2022-03-26 16:12:42 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/Quiz_model.php 878
+ERROR - 2022-03-26 16:25:00 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/Quiz_model.php 878
+ERROR - 2022-03-26 16:27:28 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/Quiz_model.php 878
+ERROR - 2022-03-26 16:29:22 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/Quiz_model.php 878
+ERROR - 2022-03-26 16:29:24 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/Quiz_model.php 878
+ERROR - 2022-03-26 16:29:29 --> Severity: Warning --> Invalid argument supplied for foreach() /home/aigelcyv/portal.aige.info/application/models/Quiz_model.php 878
